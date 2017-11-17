@@ -16,7 +16,7 @@
       "label": "Author"
     },
     "sass": {
-       "type": "confirm",
+       "type": "confirm1",
        "message": "Use sass?",
        "default": false
     }
